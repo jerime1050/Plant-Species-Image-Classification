@@ -128,6 +128,32 @@ Common Name: Patani (Lima Bean)
 Scientific Name: Phaseolus lunatus
 Description: A climbing plant producing flat edible beans used in various dishes.
 
+## Model Training Details
+● Epochs: 100
+● Batch size: 16
+● Learning rate: 0.001
+● Number of images per class: 250 minimum
+
+## Model Evaluation
+### Confusion matrix
+![confusion matrix](images/confusion_metrix.png)
+### Accuracy per class
+![confusion matrix](images/accuracy_per_class.png)
+### Overall model accuracy
+![confusion matrix](images/all.png)
+
+## Model Testing
+![Image 1](model_testing/1.png)
+![Image 2](model_testing/2.png)
+![Image 3](model_testing/3.png)
+![Image 4](model_testing/4.png)
+![Image 5](model_testing/5.png)
+![Image 6](model_testing/6.png)
+![Image 7](model_testing/7.png)
+![Image 8](model_testing/8.png)
+![Image 9](model_testing/9.png)
+![Image 10](model_testing/10.png)
+
 # Answer the following questions based on your experience:
 1. How did the number of images per class affect your model’s accuracy?
 2. Which plant species were most commonly misclassified and why?
