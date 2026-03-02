@@ -154,6 +154,10 @@ Description: A climbing plant producing flat edible beans used in various dishes
 ![Image 9](model_testing/9.png)
 ![Image 10](model_testing/10.png)
 
+## Export Model
+### Google Drive link
+#### https://drive.google.com/drive/folders/1j-SM7voNxSNsvGb5s9l0lxr_ZfvGlmwA?usp=drive_link
+
 # Answer the following questions based on your experience:
 1. How did the number of images per class affect your model’s accuracy?
 2. Which plant species were most commonly misclassified and why?
