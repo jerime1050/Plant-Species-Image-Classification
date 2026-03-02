@@ -136,9 +136,9 @@ Description: A climbing plant producing flat edible beans used in various dishes
 
 ## Model Evaluation
 ### Confusion matrix
-![confusion matrix](images/confusion_metrix.png)
+![confusion matrix](model_evaluation/confusion_metrix.png)
 ### Accuracy per class
-![confusion matrix](images/accuracy_per_class.png)
+![confusion matrix](model_evaluation/accuracy_per_class.png)
 ### Overall model accuracy
 ![confusion matrix](images/all.png)
 
